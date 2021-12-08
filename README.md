@@ -4,5 +4,13 @@
 * [Demo](#Demo)
 
 ## General info
-Landing page for 
-https://speaklab.netlify.app/
+A simple website where I practiced HTML and CSS.
+
+## Technologies
+Project is created with:
+* HTML5
+* CSS3
+* Javascript
+
+## Demo
+Link: https://speaklab.netlify.app/
